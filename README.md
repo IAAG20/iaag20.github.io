@@ -14,4 +14,4 @@
 
 8.[萧雨佳的博客](https://xyj07.github.io/XYJ.github.io/)
 
-9.[古悦的博客]https://guyuede.github.io/guyue.github.io/
+9.[古悦的博客]（https://guyuede.github.io/guyue.github.io/）
