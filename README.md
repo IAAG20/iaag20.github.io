@@ -14,7 +14,8 @@
 
 
 
-4.[高佩瑶的博客](https://www.baidu.com/)
+4.[高佩瑶的博客]（http://123.sogou.com）
 
 5.[黄贝贝的博客](https://beibhuang.github.io/).
-6.[柏颖的博客](https://cn.bing.com)
+
+6.[惠海珠的博客]（https://cn.bing.com）
