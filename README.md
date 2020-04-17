@@ -26,7 +26,7 @@
 
 14.[赵微的博客](https://hao.360.com)
 
-15.[方子昂的博客](http://mooc1.chaoxing.com/course/201946228.html)
+15.[方子昂的博客](https://578461669.github.io/fangfang.github.io/.)
 
 15.[夏维的博客](https://xeiwei-tat.github.io/xaiwei.github.io/)
 
