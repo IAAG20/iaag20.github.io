@@ -18,7 +18,7 @@
 
 5.[黄贝贝的博客](https://beibhuang.github.io/).
 
-6.[惠海珠的博客]（https://cn.bing.com）
+6.[惠海珠的博客](http://www.baidu.com)
 
 
 
