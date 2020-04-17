@@ -1,15 +1,1 @@
-# IAAG20的博客之家
-
-0. [田老师的博客](http://www.xrlab.org)
-
-2. [陈蓓尔的博客](http://www.baidu.com)
-
-3. [杨诗涵的博客](https://weibo.com)
-
-4.[高佩瑶的博客]（https://123.sogou.com/）
-
-5.[黄贝贝的博客](https://beibhuang.github.io/).
-
-6.[姚瑞洋的博客](http://www.baidu.com)
-
-7.[聂楠的博客](https://www.baidu.com)
+#Iaag20的博客之家 0.[田老师的博客](Http://www.xrlab.org。[陈蓓尔的博客](Http://www.baidu.com)3.杨诗涵的博客](Https://weibo.com)4。高佩瑶的博客]( Https: // 123.sogou。Com/)黄贝贝的博客](Https://beibhu.github.io/)。[罗越攀的博客](Http://weibo.com)
