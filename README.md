@@ -24,6 +24,5 @@
 
 7.[于世博的博客](https://www.icourse163.org/)
 
-8.[聂楠的博客](https://baidu.com)
-
-9.[方子昂的博客](http://mooc1.chaoxing.com/course/201946228.html)
+8. [聂楠的博客] （https://baidu.com）
+9. [蒲敏蕊的博客](https://119816989.github.io/PMR.github.io/)
