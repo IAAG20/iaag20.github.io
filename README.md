@@ -44,6 +44,6 @@
 
 21.[鲁玥含的博客](https://github.com/luyuehan6)
 
-22.[孙毓的博客](https://www.youku.com/)
+22.[孙毓的博客](https://sunyu333.github.io/sunyu.blog/)
 
 23. [蒲敏蕊的博客](https://119816989.github.io/PMR.github.io/)
