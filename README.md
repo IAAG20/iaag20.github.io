@@ -48,4 +48,4 @@
 
 23. [蒲敏蕊的博客](https://119816989.github.io/PMR.github.io/)
 
-24.[张嘉珈的博客]（https://zhangjiaj.github.io/JIAJIA.github.iogithub.io/）
+24.[张嘉珈的博客](https://zhangjiaj.github.io/JIAJIA.github.iogithub.io/)
