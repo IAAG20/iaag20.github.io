@@ -4,7 +4,7 @@
 
 3.[陈蓓尔的博客](https://beierchen22.github.io/belle.github.io/)
 
-4.[姚雪的博客](https://yaoxue.github.io/)
+4.[姚雪的博客](https://github.com/Yao1113/yaoxue.github.io)
 
 5.[卢锦茜的博客](https://www.baidu.com)
 
