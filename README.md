@@ -6,7 +6,7 @@
 
 4.[姚雪的博客](https://github.com/Yao1113/yaoxue.github.io)
 
-5.[卢锦茜的博客](https://www.baidu.com)
+5.[卢锦茜的博客](https://henry1-4-3.github.io/)
 
 6.[李彦可的博客](https://liyanke1kj.github.io/LiYanke.github.io/)
 
