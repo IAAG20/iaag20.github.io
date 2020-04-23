@@ -1,6 +1,6 @@
 1.[胡玉玲的博客](Https://huyuling2020.github.io/)
 
-2.[罗越攀的博客](Http://qzone.qq.com)
+2.[罗越攀的博客](https://github.com/Rosa999/Rosa999.github.io)
 
 3.[陈蓓尔的博客](https://beierchen22.github.io/belle.github.io/)
 
